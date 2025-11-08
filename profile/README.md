@@ -20,6 +20,11 @@ It features customization of the VR environment, the patient character and the a
 
 # Additional Resources
 
+## [Common Medical Assets](https://github.com/medical-tr-AI-ning/common-assets)
+
+Medical assets created in the scope of this project have been published in a separate repository for use in future educational projects.
+This includes **3D Models, Environments, Characters and other digital assets**.
+
 ## [Project Wiki](https://github.com/medical-tr-AI-ning/.github/wiki)
 
 The project wiki contains tutorials how to use the application with different hardware setups, as well as how to effectively utilize the Authoring Tool to create and use custom scenarios.
